@@ -7,11 +7,8 @@ data were used, an infrared filter (F814W) and an ultraviolet filter (F275W). Th
 the astronomical data analysis package photutils in Python to find linear flux data for over 120,000 stars. This
 was then converted into instrumental magnitude, calibrated, and plotted.
 
-## Point Matched Apertures Using KD-Tree Search 
 ![Point Matched Apertures](https://i.imgur.com/wAOBbvT.png "Point Matched Apertures")
 
-## Identical Apertures Found from F275W 
 ![F275W](https://imgur.com/leRo5g1.png "F275W")
 
-## Identical Apertures Found from F275W 
 ![F814W](https://imgur.com/JaSmtAs.png "F814W")
