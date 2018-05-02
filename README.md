@@ -11,7 +11,7 @@ was then converted into instrumental magnitude, calibrated, and plotted.
 ![Point Matched Apertures](https://i.imgur.com/wAOBbvT.png "Point Matched Apertures")
 
 ## Identical Apertures Found from F275W 
-![F275W](https://imgur.com/leRo5g1 "F275W")
+![F275W](https://imgur.com/leRo5g1.png "F275W")
 
 ## Identical Apertures Found from F275W 
-![F814W](https://imgur.com/JaSmtAs "F814W")
+![F814W](https://imgur.com/JaSmtAs.png "F814W")
