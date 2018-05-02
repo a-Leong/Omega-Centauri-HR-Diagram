@@ -8,7 +8,7 @@ the astronomical data analysis package photutils in Python to find linear flux d
 was then converted into instrumental magnitude, calibrated, and plotted.
 
 ## Point Matched Apertures Using KD-Tree Search 
-![Point Matched Apertures](https://imgur.com/wAOBbvT "Point Matched Apertures")
+![Point Matched Apertures](https://i.imgur.com/wAOBbvT.png "Point Matched Apertures")
 
 ## Identical Apertures Found from F275W 
 ![F275W](https://imgur.com/leRo5g1 "F275W")
